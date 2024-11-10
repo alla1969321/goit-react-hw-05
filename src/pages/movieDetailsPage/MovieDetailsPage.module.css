@@ -1,0 +1,8 @@
+button {
+  margin-bottom: 4px;
+}
+
+.wrapper {
+  display: flex;
+  gap: 20px;
+}
